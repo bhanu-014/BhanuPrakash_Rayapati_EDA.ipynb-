@@ -51,7 +51,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/YourUsername/RepositoryName.git
+git clone https://github.com/bhanu-014/BhanuPrakash_Rayapati_EDA.ipynb-/tree/main
 Navigate to the repository folder:
 bash
 Copy
